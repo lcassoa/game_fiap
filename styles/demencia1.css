@@ -1,6 +1,7 @@
-*{
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 .body{
    width: 100%;
@@ -17,31 +18,34 @@
     justify-content: space-between;
     align-items: center;
 }
-.header h1{
-    color: 	#9ACD32;
+
+.header h1 {
+    color: #9ACD32;
     font-size: 20px;
 }
 
-.menu ul{
+.menu ul {
     font-weight: 400%;
     list-style: none;
     font-size: 20px;
     display: flex;
 }
 
-.menu li{
+.menu li {
     font-family: 'Montserrat', 'sans-sherif';
     margin: 0 5px;
 }
-.menu a{
-    color: 	#9ACD32;
+
+.menu a {
+    color: #9ACD32;
     text-decoration: none;
 }
-.menu a:hover{
+
+.menu a:hover {
     color: aqua;
 }
 
-.container{
+.container {
     margin: 5em;
     display: flex;
     align-items: center;
@@ -61,7 +65,7 @@
     color: #9ACD32;
     font-size: 40px;
     text-align: center;
-    
+
 }
 
 .paragrafo{
