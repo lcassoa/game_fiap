@@ -1,4 +1,5 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat+Alternates&family=Montserrat:wght@100;300;400&family=Open+Sans:ital,wght@1,300&family=Shantell+Sans:wght@300&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -99,4 +100,30 @@
     border-style: double;
     border-width: 1em;
     border-color: #C71585;
+}
+
+.form button:hover{
+    background-color: #C71585;
+}
+
+.rodape{
+    
+    width: 100%;
+    padding: 20px;
+    background-color: #C71585;
+    text-align: center;
+}
+
+.titulo__rodape{
+   font-family: 'Montserrat', 'sans-sherif';
+   color: #9ACD32;
+}
+
+.lista__rodape{
+    font-family:'Open Sans', 'sans-sherif' ;
+    color: white;
+    font-weight: 600;
+    margin: 4px;
+    font-size: 20px;
+    list-style: none;
 }
