@@ -1,9 +1,9 @@
-*{
+* {
     margin: 0;
     height: 100vh;
 }
 
-body{
+body {
     box-sizing: border-box;
     height: 100vh;
     width: 100%;
@@ -13,13 +13,13 @@ body{
     background-size: cover;
 }
 
-.container{
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-div{
+div {
     width: 300px;
     border: #800080 solid;
     border-radius: 10px;
@@ -30,14 +30,14 @@ div{
     padding: 20px;
 }
 
-h1{
+h1 {
     margin: 1em;
     font-family: 'Montserrat', 'sans-sherif';
     font-size: 20px;
     color: white;
 }
 
-a{
+a {
     text-decoration: none;
     color: white;
     font-family: 'Montserrat', sans-serif;
@@ -49,6 +49,6 @@ a{
     border-radius: 10px;
 }
 
-a:hover{
+a:hover {
     background-color: #c0c0c0;
 }
