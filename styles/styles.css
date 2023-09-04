@@ -12,25 +12,42 @@
 }
 
 .header {
+<<<<<<< HEAD
     background-color: transparent;
+=======
+    background-color: #C71585;
+>>>>>>> 32602090df83d2f430f9c628e4f778465b600fce
     width: 100%;
     height: 50px;
     padding: 0 10px;
     display: flex;
+<<<<<<< HEAD
     margin-top: 1%;
     font-size: 2.1em;
     justify-content: space-between;
     letter-spacing: 2px;
+=======
+    justify-content: space-between;
+>>>>>>> 32602090df83d2f430f9c628e4f778465b600fce
     align-items: center;
 }
 
 .header h1 {
+<<<<<<< HEAD
     color: #C71585;
+=======
+    color: #9ACD32;
+    font-size: 20px;
+>>>>>>> 32602090df83d2f430f9c628e4f778465b600fce
 }
 
 .menu ul {
     font-weight: 400%;
     list-style: none;
+<<<<<<< HEAD
+=======
+    font-size: 20px;
+>>>>>>> 32602090df83d2f430f9c628e4f778465b600fce
     display: flex;
     flex-direction: row;
     gap: 50px;
@@ -42,12 +59,20 @@
 }
 
 .menu a {
+<<<<<<< HEAD
     color: #C71585;
+=======
+    color: #9ACD32;
+>>>>>>> 32602090df83d2f430f9c628e4f778465b600fce
     text-decoration: none;
 }
 
 .menu a:hover {
+<<<<<<< HEAD
     color: #9ACD32;
+=======
+    color: aqua;
+>>>>>>> 32602090df83d2f430f9c628e4f778465b600fce
 }
 
 .container {

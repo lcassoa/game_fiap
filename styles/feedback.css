@@ -7,7 +7,11 @@ body {
     box-sizing: border-box;
     height: 100vh;
     width: 100%;
+<<<<<<< HEAD
     background-color: transparent;
+=======
+    background-image: url(../assets/fiap.png);
+>>>>>>> 32602090df83d2f430f9c628e4f778465b600fce
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -34,21 +38,37 @@ h1 {
     margin: 1em;
     font-family: 'Montserrat', 'sans-sherif';
     font-size: 20px;
+<<<<<<< HEAD
     color: #C71585;
+=======
+    color: white;
+>>>>>>> 32602090df83d2f430f9c628e4f778465b600fce
 }
 
 a {
     text-decoration: none;
+<<<<<<< HEAD
     color: #C71585;
+=======
+    color: white;
+>>>>>>> 32602090df83d2f430f9c628e4f778465b600fce
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
     height: 20px;
     padding: 15px;
     border: 2px solid;
+<<<<<<< HEAD
     border-color: #9ACD32;
+=======
+    border-color: #00ffff;
+>>>>>>> 32602090df83d2f430f9c628e4f778465b600fce
     border-radius: 10px;
 }
 
 a:hover {
+<<<<<<< HEAD
     background-color: #9ACD32;
+=======
+    background-color: #c0c0c0;
+>>>>>>> 32602090df83d2f430f9c628e4f778465b600fce
 }
